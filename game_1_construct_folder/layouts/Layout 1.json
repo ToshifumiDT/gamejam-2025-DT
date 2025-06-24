@@ -5,6 +5,7 @@
 			"name": "Layer 0",
 			"overriden": 0,
 			"subLayers": [],
+<<<<<<< HEAD
 			"instances": [
 				{
 					"type": "ground",
@@ -103,6 +104,9 @@
 					}
 				}
 			],
+=======
+			"instances": [],
+>>>>>>> 0bfd649ef207f0f573d23efbf126a309e00534f2
 			"sid": 330139426382064,
 			"effectTypes": [],
 			"isInitiallyVisible": true,

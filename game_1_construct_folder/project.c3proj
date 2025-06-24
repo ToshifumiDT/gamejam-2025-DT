@@ -5,6 +5,7 @@
 	"runtime": "c3",
 	"useWorker": "auto",
 	"bundleAddons": false,
+<<<<<<< HEAD
 	"usedAddons": [
 		{
 			"type": "plugin",
@@ -34,6 +35,12 @@
 			"ground",
 			"player_col"
 		],
+=======
+	"usedAddons": [],
+	"uniqueId": "4ji81p09tg8",
+	"objectTypes": {
+		"items": [],
+>>>>>>> 0bfd649ef207f0f573d23efbf126a309e00534f2
 		"subfolders": []
 	},
 	"functionsName": "Functions",
